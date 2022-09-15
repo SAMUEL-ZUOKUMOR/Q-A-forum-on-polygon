@@ -6,6 +6,6 @@ This is a decentralized tippable question and answer forum for developers to pos
 * Navigate to the frontend root directory and:
 => Run `npm install` to install all dependencies
 
-=> Then run `npm run start` or `npm run start` to host it locally
+=> Then run `npm run start` or `npm run dev` to host it locally
 
 # Project Reference--> pointer.gg
